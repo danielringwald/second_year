@@ -1,0 +1,24 @@
+INDEX VERSION 1.131+C:\Users\danie\Documents\Eclipse\edaa01-workspaceVT20\edaa01-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2606080199.index
+3353951151.index
+3296152044.index
+2058245767.index
+1647302286.index
+39645565.index
+81428831.index
+3101596351.index
+87111012.index
+3607423995.index
+145571585.index
+1968947691.index
+2076679218.index
+2476249805.index
+1531662729.index
+33976757.index
+44127563.index
+989908510.index
+2620941534.index
+1889819391.index
+3897020221.index
+3295747895.index
+3946796104.index
